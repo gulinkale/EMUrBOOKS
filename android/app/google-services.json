@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "560482279906",
+    "project_id": "university-second-hand-books",
+    "storage_bucket": "university-second-hand-books.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560482279906:android:138f5d7aaeedbc009599bb",
+        "android_client_info": {
+          "package_name": "com.emurbooks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ478UpbGUqGDoTMh3RKW3Dixk2NS8ZAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560482279906:android:045bdd1df0a61a1d9599bb",
+        "android_client_info": {
+          "package_name": "com.unibookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ478UpbGUqGDoTMh3RKW3Dixk2NS8ZAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560482279906:android:ee272296eba503429599bb",
+        "android_client_info": {
+          "package_name": "com.unibookappnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ478UpbGUqGDoTMh3RKW3Dixk2NS8ZAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
